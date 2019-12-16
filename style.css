@@ -1,0 +1,17 @@
+.body{
+   
+    background-color: black!important;
+    
+}
+canvas{
+    background:black;
+}
+div#login{
+    position: absolute;
+    left: calc(50% - 160px);
+}
+.login h1 a{
+    background-image: url('https://www.its.ae/wp-content/uploads/2018/08/Its.ae_bigbang.png');
+    background-size:200px!important;
+    width:200px!important;
+}
